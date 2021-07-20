@@ -1,0 +1,1 @@
+<table width="100%" border="0" cellpadding="0" cellspacing="10">  <tr>    <td align="left" class="txt12" width="100">      <input type="image" name="button_kind.back" src="/UI/image/syllabus2/b_back.gif;jsessionid=5kKXchdNAXwET7gPVvGRwPNg.kmap1" border="0" onclick="return dbClick();" style="cursor:hand;cursor:pointer" alt="前画面へ戻る">    </td>  </tr></table>
