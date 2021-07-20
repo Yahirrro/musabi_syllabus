@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "html-table-to-csv": "^1.1.0",
+    "jsdom": "^16.6.0",
+    "node-fetch": "^2.6.1",
+    "tabletojson": "^2.0.7"
+  }
+}
